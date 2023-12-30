@@ -32,3 +32,4 @@ node_modules/*
 nodepop/public/anuncios
 
 .idea
+cronlog.txt
